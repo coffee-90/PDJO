@@ -26,7 +26,7 @@ Menggunakan script eviden collector untuk otomatisasi pengumpulan bukti digital.
 Command :
 
 ```
-curl -sO https://raw.githubusercontent.com/adpermana/Incident-Response-Tools/analisa/UbuntuIR.sh && sudo bash ./UbuntuIR.sh nama_instansi
+curl -sO https://raw.githubusercontent.com/adpermana/Incident-Response-Tools/analisa/UbuntuIR.sh && sudo bash ./UbuntuIR.sh namasistemelektonik
 ```
 
 Contoh :
