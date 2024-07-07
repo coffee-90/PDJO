@@ -7,10 +7,17 @@ date updated: 2024-07-07 19:12
 
 Uji coba pada :
 
+**Server**
 - Domain : lab22.id
+- Nama Sistem Elektronik : lab22
 - OS : Ubuntu
+- Username : adminsvr
 - Web Service : Apache
 - Compromised : Webshell, Cryptomining
+
+**Host**
+- OS : Windows 10
+- VM : VMWare 17
 
 ## Tahap 1 - Eviden Collector
 
