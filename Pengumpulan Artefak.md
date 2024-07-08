@@ -150,7 +150,7 @@ sudo ./thor-lite-linux-64 -a Filescan --intense -norescontrol -cross-platform -a
 
 Output-4: `ubuntu_thor_2024-07-05_2146.html`
 
-## Upload Bukti Digital
+## 4 - Upload Bukti Digital
 
 Sampai dengan saat ini kita memiliki 4 Ouput (5 files):
 
