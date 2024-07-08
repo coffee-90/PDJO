@@ -124,7 +124,7 @@ scp .\thor-lite-nnnnnnnn.lic adminsvr@lab22.id:/home/adminsvr
 
 saat ini 2 file tersebut sudah berada di file linux server.
 
-### 4. Menjalankan Thor-Lite
+## Tahap - 4. Menjalankan Thor-Lite
 
 Extract `thor10.7lite-linux-pack.zip`
 
@@ -189,6 +189,6 @@ scp adminsvr@lab22.id:/home/adminsvr/lab22.tar.gz .
 scp adminsvr@lab22.id:/home/adminsvr/lab22.md5 .
 ```
 
-Upload `namasistemelektronik.tar.gz` ke cloud yang telah diinformasikan oleh PIC.
+Upload `namasistemelektronik.tar.gz` dan `namasistemelektronik.md5` ke cloud yang telah diinformasikan oleh PIC.
 
 **TAHAP PERSIAPAN SELESAI.**
