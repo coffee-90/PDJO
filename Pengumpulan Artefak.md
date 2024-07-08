@@ -145,7 +145,7 @@ Saatnya scanning
 cd thor
 sudo ./thor-lite-util update
 sudo ./thor-lite-util upgrade
-sudo ./thor-lite-linux-64 -a Filescan --intense -norescontrol -cross-platform -alldrives -p /home/
+sudo ./thor-lite-linux-64 -a Filescan --intense -norescontrol -cross-platform -alldrives -p /home/ -p /var/www/
 ```
 
 Output-4: `ubuntu_thor_2024-07-05_2146.html`
