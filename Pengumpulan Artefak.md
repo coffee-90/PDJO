@@ -1,6 +1,6 @@
 ---
 date created: 2024-07-05 14:32
-date updated: 2024-09-30 11:38
+date updated: 2024-09-30 11:48
 ---
 
 # Tahapan Pengumpulan  Bukti Digital
@@ -99,6 +99,8 @@ git clone https://github.com/adpermana/Thor-2.git
 cd Thor2
 chmod +x thor-lite-linux-64
 ```
+
+Note: jika terkendala dalam `git clone`, bisa melakukan eksekusi berikut :`git config --global http.postBuffer 157286400`
 
 Saatnya scanning
 
